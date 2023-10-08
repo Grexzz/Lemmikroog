@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Federo&family=Sigmar+One&display=swap');
+
+body {
+    background-color: papayawhip;
+}
+
+.heading {
+    text-align: center;
+}
+
+.retsept-heading {
+    color: blue;
+    font-family:  'Federo', sans-serif;
+    font-size: 2.5rem;
+}
+
+.pilt{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.hakk-pealkiri{
+    font-size: 2rem;
+    color: rgb(224, 87, 224)
+}
+
+.hakk-koostisosad-tabel{
+    border: 2px solid black;
+    width: 25%;
+    margin: 0 auto;
+    color: rgb(224, 87, 224)
+}
+
+.hakk-valmistamine{
+    border: 2px solid black;
+    width: 25%;
+    margin: 0 auto;
+    color: rgb(224, 87, 224)
+}
+
+.juust-pealkiri{
+    font-size: 2rem;
+    color: rgb(231, 198, 12)
+}
+
+.juust-koostisosad-tabel{
+    border: 2px solid black;
+    width: 25%;
+    margin: 0 auto;
+    color: rgb(231, 198, 12)
+}
+
+.juust-valmistamine{
+    border: 2px solid black;
+    width: 25%;
+    margin: 0 auto;
+    color: rgb(231, 198, 12)
+}
+
+.lisa-pealkiri{
+    font-size: 2rem;
+    color: royalblue
+}
+
+.lisa-koostisosad-tabel{
+    border: 2px solid black;
+    width: 25%;
+    margin: 0 auto;
+    color: royalblue
+}
+
+.loppviimistlus{
+    border: 2px solid black;
+    width: 25%;
+    margin: 0 auto;
+    color: royalblue
+}
+
+.footer {
+    text-align: end;
+    font-family: 'Sigmar One', cursive;
+}
